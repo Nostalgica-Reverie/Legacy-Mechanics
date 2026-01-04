@@ -23,6 +23,10 @@ Some of the features include:
 
 For the complete experience, make sure to install [Legacy Mechanics: Addon](https://modrinth.com/resourcepack/legacy-mechanics-addon)
 
+> [!IMPORTANT]
+> This repository has been moved to Codeberg, and as such is not being updated on GitHub any longer.   
+> [View Repo](https://codeberg.org/Nostalgica-Reverie/Legacy-Mechanics)
+
 ---
 
 ## ✨ Feature list
